@@ -1698,3 +1698,9 @@ footer .box:nth-child(3) .info i{
 }
 }
 /* end footer */
+/* start media */
+@media (max-width:992px) {
+  .dots{
+    display: none;
+  }
+}
