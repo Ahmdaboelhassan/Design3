@@ -11,6 +11,11 @@ a {
   --section-color:#ececec;
 }
 
+@media (max-width:576px) {
+  .container{
+    width: 100%;
+  }
+}
 @media (min-width: 768px) {
   .container {
     width: 750px;
